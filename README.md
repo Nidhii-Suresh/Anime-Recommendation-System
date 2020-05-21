@@ -1,7 +1,7 @@
 # Anime-Recommendation-System
 
-![](Images/anime.png)
-
+<img src="Images/anime.png" height="300" width="600">
+  
 ## Recommendation Systems
 
 We literally see Recommendation Systems all around us. Online shopping sites like Amazon where products are recommended to us, or media service providers like Netflix or Amazon Prime where movies or tv shows are recommended or social cataloguing websites like goodreads where books are recommended!
