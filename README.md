@@ -88,7 +88,9 @@ https://drive.google.com/open?id=1_hZA7JmXp67tqSUL95Eq_wsX9FInCEXK
 
 Cosine Similarity
 
-  * Input(anime_id)
+  * Input(anime)
+  
+    topRecommendations(8)
   
   * Output:
   
@@ -100,7 +102,7 @@ We have outputs for both User Based and Item Based Collaborative Filtering above
 
 Which recommends better?
 
-User-based filtering is expected to be superior when dealing with big amounts of data, whereas item-based collaborative filtering is expected to perform better on smaller datasets. :)
+User-based filtering is expected to be superior when dealing with big amounts of data, whereas item-based collaborative filtering is expected to perform better on smaller datasets.
 
 
 
