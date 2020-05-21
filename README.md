@@ -8,7 +8,7 @@
 
 We literally see Recommendation Systems all around us. Online shopping sites like Amazon where products are recommended to us, or media service providers like Netflix or Amazon Prime where movies or tv shows are recommended or social cataloguing websites like goodreads where books are recommended!
 
-<img src="Images/amazon.jpg" width="430" height="200" >  | <img src="Images/prime.jpg" width="430" height="200">
+<img src="Images/amazon.jpg" width="430" height="200" > <img src="Images/prime.jpg" width="430" height="200">
 
 So how do these people do it!? How are Products, Movies or Books recommended to us in a personalised way?
 
