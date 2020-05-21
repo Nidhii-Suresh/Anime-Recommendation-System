@@ -60,6 +60,49 @@ As the file is too large, you wont find the file uploaded here. Instead here's t
 https://drive.google.com/open?id=1_hZA7JmXp67tqSUL95Eq_wsX9FInCEXK
 
 
+## Outputs
+
+### Using User Based
+
+1. Euclidean Distance 
+
+  * Input(user_id) :
+  
+    top_rec,user = recommendations(preferences,1)
+
+  * Output:
+  
+  <img src="Images/euclidean-output.png">
+
+2. Pearson Correlation
+
+  * Input(user_id) :
+  
+    top_rec,user = recommendations(preferences,1)
+
+  * Output:
+  
+  <img src="Images/pearson-output.png">
+
+### Using Item Based
+
+Cosine Similarity
+
+  * Input(anime_id)
+  
+  * Output:
+  
+  <img src="Images/item-output.png">
+
+## Conclusion
+
+We have outputs for both User Based and Item Based Collaborative Filtering above.
+
+Which recommends better?
+
+User-based filtering is expected to be superior when dealing with big amounts of data, whereas item-based collaborative filtering is expected to perform better on smaller datasets. :)
+
+
 
 
 
